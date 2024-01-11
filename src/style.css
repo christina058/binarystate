@@ -1,0 +1,32 @@
+/*
+Binarystate grey: #23282C
+Binarystate orange: #BC6B2E
+*/
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+.wrap {
+  text-align: center;
+  background-color: #23282C;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+a {
+  color: #BC6B2E;
+  text-decoration: none;
+}
+
+a:hover{
+  color: white;
+}
+
